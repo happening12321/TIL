@@ -1,7 +1,7 @@
 TIL
 ===
 ### 08/03 
-- [Git & Github](.../README.md)
+- [Git & Github](./Git & Github/README.md) 
 ### 08/04
 - Data Literacy
 ### 08/05
