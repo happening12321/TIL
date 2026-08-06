@@ -10,3 +10,6 @@ TIL
   
 ### AI Literacy
 - [08/05](https://github.com/happening12321/TIL/blob/a08ee8b83dbcbc4998f5f83a2b7c11f5b054d0ba/AI%20Literacy/08.05)
+
+### Python
+- [08/06](https://github.com/happening12321/TIL/blob/16ac88562f40cc0db62bf0f62ba999ef7ab92aba/Git%20%26%20Hub/08.06)
