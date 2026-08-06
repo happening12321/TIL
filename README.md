@@ -6,7 +6,7 @@ TIL
 - [08/06](https://github.com/happening12321/TIL/blob/16ac88562f40cc0db62bf0f62ba999ef7ab92aba/Git%20%26%20Hub/08.06)
   
 ### Data Literacy
-- 08/04
+- [08/04](https://github.com/happening12321/TIL/blob/04b7d9ca5755749ee1be60e01c65d63967ff3d68/Data%20Literacy/08.04)
   
 ### AI Literacy
 - 08/05
