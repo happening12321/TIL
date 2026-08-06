@@ -1,9 +1,12 @@
 TIL
 ===
-### 08/03 
-- Git & Github
-### 08/04
-- Data Literacy
-### 08/05
-- AI Literacy
-### 08/06
+
+### Git & Github
+- 08/03
+- 08/06
+  
+### Data Literacy
+- 08/04
+  
+### AI Literacy
+- 08/05
